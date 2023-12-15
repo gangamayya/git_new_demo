@@ -1,0 +1,1 @@
+print("ganga adaki + entry course")
